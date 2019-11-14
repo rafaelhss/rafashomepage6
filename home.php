@@ -1,3 +1,4 @@
+<?php if (strlen($_GET["name"]) > 0) { ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -744,3 +745,4 @@
 
 </body>
 </html>
+<?php } else { echo 'wrong password'} ?>
