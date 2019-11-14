@@ -24,9 +24,6 @@
     }
     .top-buffer { margin-top:20px; }
   </style>
-    <script>
-        alert("c eh hack memo hein");
-    </script>
     
 </head>
 <body>
@@ -732,6 +729,10 @@
     </div>
 </div>
 <script>
+    
+    alert("c eh hack memo hein");
+    
+    
     var birthday = new Date("1983-03-23")
     var ageDifMs = Date.now() - birthday.getTime();
     var ageDate = new Date(ageDifMs); // miliseconds from epoch
