@@ -745,4 +745,4 @@
 
 </body>
 </html>
-<?php else: echo 'wrong password' ?>
+<?php else: echo 'wrong password'; ?>
