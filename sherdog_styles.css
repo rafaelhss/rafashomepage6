@@ -1,0 +1,213 @@
+/*! CSS Used from: https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css */
+*,::after,::before{box-sizing:border-box;}
+section{display:block;}
+h1,h2,h5,h6{margin-top:0;margin-bottom:.5rem;}
+ul{margin-top:0;margin-bottom:1rem;}
+strong{font-weight:bolder;}
+a{color:#007bff;text-decoration:none;background-color:transparent;}
+a:hover{color:#0056b3;text-decoration:underline;}
+a:not([href]):not([tabindex]){color:inherit;text-decoration:none;}
+a:not([href]):not([tabindex]):focus,a:not([href]):not([tabindex]):hover{color:inherit;text-decoration:none;}
+a:not([href]):not([tabindex]):focus{outline:0;}
+img{vertical-align:middle;border-style:none;}
+table{border-collapse:collapse;}
+h1,h2,h5,h6{margin-bottom:.5rem;font-weight:500;line-height:1.2;}
+h1{font-size:2.5rem;}
+h2{font-size:2rem;}
+h5{font-size:1.25rem;}
+h6{font-size:1rem;}
+.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;}
+@media (min-width:576px){
+.container{max-width:540px;}
+}
+@media (min-width:768px){
+.container{max-width:720px;}
+}
+@media (min-width:992px){
+.container{max-width:960px;}
+}
+@media (min-width:1200px){
+.container{max-width:1140px;}
+}
+.table{width:100%;margin-bottom:1rem;color:#212529;}
+.table td{padding:.75rem;vertical-align:top;border-top:1px solid #dee2e6;}
+.card_bio{position:relative;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;min-width:0;word-wrap:break-word;background-color:#fff;background-clip:border-box;border:1px solid rgba(0,0,0,.125);border-radius:.25rem;}
+@media print{
+*,::after,::before{text-shadow:none!important;box-shadow:none!important;}
+a:not(.btn){text-decoration:underline;}
+img,tr{page-break-inside:avoid;}
+h2{orphans:3;widows:3;}
+h2{page-break-after:avoid;}
+.container{min-width:992px!important;}
+.table{border-collapse:collapse!important;}
+.table td{background-color:#fff!important;}
+}
+    
+/*! CSS Used from: https://www.sherdog.com/minify/?t=c&f=/css/w/sherdog_styles.css&v=2795 ; media=screen */
+@media screen{
+div,span,iframe,h1,h2,h5,h6,a,em,img,strong,ul,li,table,tbody,tr,td,section{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+section{display:block;}
+ul{list-style:none;}
+table{border-collapse:collapse;border-spacing:0;}
+.container{background:#4e4e4e;margin:0 auto;padding:0 5px;position:relative;width:970px;}
+.module{background:url(https://www.sherdog.com/img/w/bk_module_content.gif) contain repeat-x #7f7f7f;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../img/w/bk_module_content.gif', sizingMethod='scale');-ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../img/w/bk_module_content.gif', sizingMethod='scale')";margin:0 0 5px;padding:2px;-webkit-box-shadow:0 3px 15px #222;-moz-box-shadow:0 3px 15px #222;box-shadow:0 3px 15px #222;}
+.content{width:970px;}
+.col_left{width:665px;margin:0 5px 0 0;}
+.col_left{float:left;}
+.col_left .content{width:661px;}
+a{color:#ff7800;text-decoration:none;margin:0;padding:0;}
+h1{font:bold 40px "fgDemi", sans-serif;text-transform:uppercase;line-height:0.9em;}
+h2{font-size:20px;color:#DDD!important;}
+::selection,::-moz-selection{background:#FF6700;color:#000;}
+.share_buttons{float:right;}
+.item{display:block;}
+.item a{display:block;overflow:hidden;}
+.item .association{display:inline;}
+.module .content{background:#010101;background-size:contain;line-height:1.2;}
+.col_left .module .module_header{background:url(https://www.sherdog.com/img/w/sprite_1.gif) no-repeat -1005px bottom;background-color:black!important;font-family:"fgHeavyItalic", sans-serif;text-transform:uppercase;color:#ddd;line-height:26px;padding:5px 5px 15px;overflow:hidden;margin:0 0 -9px;}
+.col_left .module_header h2{font-size:36px;line-height:26px;font-family:"fgHeavyItalic", sans-serif;font-weight:normal;color:#DDD;}
+.col_left .module h2.header_sprite{background:url(https://www.sherdog.com/img/w/headers-home.png);text-indent:-999px;background-repeat:no-repeat;margin:-7px;height:37px;}
+.col_left .module h2.video_panel{background-position:2px -97px;background-position-x:2px;background-position-y:-97px;}
+.header_sprite .read_more{margin:8px 5px 0!important;}
+.module .footer{background:#010101;padding:0 10px;margin:0;border-top:dotted 1px #222;overflow:hidden;}
+.content ul li{border-bottom:dotted 1px #333;padding:8px;display:block;overflow:hidden;position:relative;}
+.module .read_more{background:#fc5700;color:#111;display:block;font-size:14px;font-family:"fgDemi", sans-serif;min-width:10px;position:relative;text-transform:uppercase;width:auto;float:right;margin:5px 5px 0 0;}
+.module .read_more:hover{background:#FFA200;-webkit-transition:all 0.1s linear;-moz-transition:all 0.1s linear;-o-transition:all 0.1s linear;-ms-transition:all 0.1s linear;transition:all 0.1s linear;}
+.module .read_more a{color:#111;display:block;text-decoration:none;padding:3px 10px;}
+.module .read_more:after{left:100%;border:solid transparent;content:" ";height:0;width:0;position:absolute;pointer-events:none;}
+.module .read_more:after{border-color:rgba(255, 128, 0, 0);border-left-color:#fc5700;border-width:5px;top:85%;margin-top:-12px;}
+.module .read_more:hover:after{border-left-color:#FFA200;-webkit-transition:all 0.1s linear;-moz-transition:all 0.1s linear;-o-transition:all 0.1s linear;-ms-transition:all 0.1s linear;transition:all 0.1s linear;}
+.sub_line{font-size:11px;color:#ccc;}
+.left_side{float:left;}
+.black .content{background-color:black;background-image:url(https://www.sherdog.com/img/w/bk_black_left.jpg);background-repeat:no-repeat;background-position-x:right;background-position-y:bottom;background-position:right bottom;padding:0 0 10px;background-size:auto;color:white;overflow:hidden;width:661px;}
+.black .read_more{margin:5px 15px 0!important;text-indent:0;}
+.black .read_more a{line-height:14px;color:#111!important;text-indent:0;}
+.bio_graph{padding:3px 0!important;border:none!important;font-size:11px;letter-spacing:.01em;font-family:"fgDemi", sans-serif;float:left;}
+.bio_graph span.graphics{background:url(https://www.sherdog.com/img/w/sprite_2.png) no-repeat left -605px;display:inline-block;width:178px;float:left;margin:0 3px 2px 0;padding:0;height:15px;}
+.bio_graph .graph{background:url(https://www.sherdog.com/img/w/sprite_2.png) no-repeat left -585px;display:inline-block;height:15px;}
+.loser{color:#999;}
+.loser .graph{background:url(https://www.sherdog.com/img/w/sprite_2.png) no-repeat left -625px;}
+.bio_graph .graph_tag{line-height:15px;height:15px;display:inline;float:left;}
+.graph_tag em{color:#FFF;font-family:"fgHeavyitalic", sans-serif;font-size:12px;}
+.video .current_video{width:480px;float:left;display:block;overflow:hidden;margin:10px;position:relative;}
+.video .current_video.homepage{width:640px;margin-top:0;margin-bottom:0;}
+.video .current_video img{width:100%;opacity:0.5;cursor:pointer;}
+.table a{font-weight:bold;}
+.table table{width:100%; color: azure}
+.table_head{background:url(https://www.sherdog.com/img/w/sprite_2.png) repeat-x left -117px;border-top:solid 1px #999;width:100%;color:white;text-shadow:0 -1px 0 black;font-family:"fgDemi", sans-serif;text-transform:uppercase;font-size:15px;height:33px;vertical-align:bottom;border-bottom:solid 1px #111;}
+.content.table td{padding:5px;vertical-align:middle;}
+.odd{background:#222;border-bottom:solid 1px #444;width:100%;}
+.even{background:#333;border-top:solid 1px #111;width:100%;}
+.final_result{background:#CCC;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;color:#fff;font-size:14px;font-family:"fgHeavyitalic", sans-serif;text-transform:uppercase;padding:3px;margin:3px 0;min-width:50px;display:inline-block;text-align:center;}
+.final_result.win{background:#090;}
+.final_result.loss{background:#C00;}
+.bio_fighter{background-color:#000;background-image:url(https://www.sherdog.com/img/w/bk_black_left.jpg);background-repeat:no-repeat;background-position-x:right;background-position-y:bottom;background-position:bottom right;filter:none;-ms-filter:none;padding:0 0 30px;background-size:auto;color:#FFF;overflow:hidden;width:665px;}
+.bio_fighter .content{background:none;}
+.bio_fighter .content .profile_image{float:left;margin:5px; height: 300px ; width: 200px}
+.bio_fighter .content .data{float:left;margin:5px 0 0;}
+.bio_fighter,.bio_fighter .content{overflow:visible!important;}
+.socialmedia a{float:left;display:block;margin:0 10px 0 0;}
+.bio_fighter .data{width:450px;text-transform:uppercase;}
+.bio_fighter h1{background:black url(https://www.sherdog.com/img/w/sprite_1.gif) no-repeat -1004px bottom;font-family:"fgHeavyItalic", sans-serif;font-size:40px;text-transform:uppercase;color:white;line-height:24px;padding:6px 5px 12px;overflow:hidden;}
+.bio_fighter h1 .nickname{font-size:28px;}
+.nickname em{color:#FF6700;}
+.bio{background:#000 url(https://www.sherdog.com/img/w/sprite_2.png) repeat-x left bottom;padding:0 0 10px;display:block;font-family:"fgDemi", sans-serif;}
+.bio_fighter .item{float:left;display:block;}
+.bio .birth_info,.bio .size_info{display:block;overflow:hidden;color:#CCC;}
+.bio .item{margin:0 10px 5px 0;}
+.item strong{font-family:"fgHeavyItalic", sans-serif;font-size:18px;color:#fff;}
+.item.birthday{width:160px;}
+.item.birthplace{width:275px;text-align:right;margin-right:0;}
+.item.association{margin:0 10px 0 0;width:265px;}
+.item.association strong,.item.wclass strong{font-size:14px;}
+.birthplace .big_flag{float:right;margin:0 0 0 5px;}
+.count_history{display:block;overflow:hidden;}
+.count_history .left_side{width:399px!important;border:none!important;margin:5px 0!important;height:auto!important;min-height:inherit!important;}
+
+.card_bio{min-width:40px;background:#333;display:block;text-align:center;font-family:"fgDemi", sans-serif;font-size:12px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;float:left;margin:0 3px 0 0;padding:4px 2px 10px;height:35px;}
+
+.card_bio .result{display:block;}
+.card_bio .counter{font-size:30px;font-family:"fgHeavyItalic", sans-serif;background:none!important;}
+.data .socialmedia .share_buttons{margin:20px 0 0;}
+.bio_fighter .share_buttons{width:415px;}
+.fight_history{margin:0 0 20px;}
+.fight_history table{width:100%;font-size:13px;}
+.fight_history td.col_one{width:10%;}
+.fight_history td.col_two{width:20%;}
+.fight_history td.col_three{width:30%;}
+.fight_history td.col_four{width:5%;}
+.fight_history td.col_five{width:30%;}
+/*.fight_history td.col_six{width:5%;}*/
+#sd_video_player{float:left;overflow:hidden;width:516px;height:290px;}
+#sd_video_player .play{cursor:pointer;}
+.col_left #sd_video_player .play{position:absolute;top:0;background:transparent url(https://www.sherdog.com/img/w/playButtonOverlay.png) no-repeat 50% 50%!important;width:390px;height:291px;z-index:999;}
+.col_left #sd_video_player .image{height:245px;width:390px;overflow:hidden;text-align:center;z-index:2;margin-top:23px;}
+.col_left #sd_video_player .image > img{width:auto;height:100%;}
+.sd_video_list{float:right;}
+.sd_video_list .container{background:none;font-family:Verdana;position:relative;width:250px;height:291px;padding:0;margin:0;}
+.sd_video_list .placeholder{color:#FF5100;float:left;width:100%;background:black;height:267px;overflow:hidden;}
+.sd_video_list .item_collection{padding-left:3px;}
+.sd_video_list .item{float:left;}
+.sd_video_list .item_wrapper{float:left;padding:2px;width:240px;margin-left:0px;margin-top:0px;height:84px;border-top:1px dotted #222;}
+.sd_video_list .item_wrapper:hover{background-color:#401400;}
+.sd_video_list .item_image{float:left;cursor:pointer;height:84px;width:118px;}
+.sd_video_list .item_image img{height:100%;width:100%;}
+.sd_video_list .item_content{position:relative;float:left;text-align:left;padding-left:4px;margin-top:1px;cursor:pointer;width:118px;height:84px;}
+.sd_video_list .item_info{line-height:11px;font-size:11px;color:#802900;}
+.sd_video_list .item_content .title{font-size:11px;font-weight:bold;line-height:14px;color:white;}
+.sd_video_list .footer{float:left;height:20px;width:100%;padding-top:2px;padding-bottom:2px;border:0 none;background-repeat:repeat no-repeat;}
+.sd_video_list .footer .left,.sd_video_list .footer .right{padding-top:2px;line-height:18px;cursor:pointer;font-size:16px;float:left;color:#FF5100;}
+.current_video.homepage.hd{width:650px;padding:5px;margin:0 0 -12px;background:black;}
+.hd #sd_video_player{background:url(https://www.sherdog.com/img/w/cover_video_bg.png) no-repeat left top;background-size:516px 290px;border:solid 1px #111;}
+.hd #sd_video_player .image img{opacity:1;}
+.hd .sd_video_list .placeholder{height:275px;background:none;}
+.hd .sd_video_list .item_image{width:130px;height:73px;display:block;overflow:hidden;}
+.hd .sd_video_list .item_image img{height:auto!important;}
+.hd .sd_video_list,.hd .sd_video_list .container,.hd .sd_video_list .item,.hd .sd_video_list .item_wrapper,.hd .sd_video_list .item_collection{width:130px;padding:0 0 5px;border:none;}
+.hd .sd_video_list .item_content{padding:0;width:130px;margin:0;height:15px;}
+.sd_video_list .footer{background:black;border-top:dotted 1px #222;}
+.sd_video_list .footer .left,.sd_video_list .footer .right{text-indent:-9999px;display:block;float:left;height:15px;width:55px;margin:0 1px;}
+.sd_video_list .footer .left{background:#ff9600 url(https://www.sherdog.com/img/w/sprite_2.png) no-repeat left -908px;}
+.sd_video_list .footer .right{background:#fc5700 url(https://www.sherdog.com/img/w/sprite_2.png) no-repeat right -908px;}
+.col_left .hd #sd_video_player .play{width:516px;}
+.col_left .hd #sd_video_player .image{height:290px;width:516px;margin:0;}
+.clear{clear:both;}
+}
+/*! CSS Used from: http://i.po.st/static/v4/css/post-widget.css?4_55_0_rel_49 ; media=all */
+@media all{
+.pw-widget{-webkit-box-sizing:border-box;box-sizing:border-box;font-size:0;}
+@media print{
+.pw-button,.pw-widget{display:none!important;}
+}
+.pw-button{cursor:pointer;display:inline-block;vertical-align:top;font-size:0;line-height:1;-webkit-box-sizing:border-box;box-sizing:border-box;float:none;width:auto;color:transparent;text-decoration:none!important;}
+.pw-button *,.pw-button :after,.pw-button :before{-webkit-box-sizing:border-box;box-sizing:border-box;}
+.pw-button__outer{float:none;display:inline-block;white-space:nowrap;vertical-align:top;text-align:center;width:auto;}
+.pw-button__inner{float:none;display:inline-block;vertical-align:top;}
+.pw-button-icon{display:inline-block;vertical-align:top;text-align:center;}
+.pw-button-text{display:none;vertical-align:top;}
+}
+/*! CSS Used from: http://i.po.st/static/v4/css/theme-default.css?4_55_0_rel_49 ; media=all */
+@media all{
+.pw-button-icon{speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+.pw-button-icon:before{display:inline-block;vertical-align:top;}
+.pw-button-icon.__pw-size-32{font-family:post-icons-32;font-size:28px;}
+.pw-button-email-icon:before{content:"\f1a7";}
+.pw-button-facebook-icon:before{content:"\f16a";}
+.pw-button-reddit-icon:before{content:"\f17f";}
+.pw-button-twitter-icon:before{content:"\f184";}
+.pw-button-facebook .pw-button__outer{background-color:#395a97;}
+.pw-button-email .pw-button__outer{background-color:#36aec0;}
+.pw-button-reddit .pw-button__outer{background-color:#fd4314;}
+.pw-button-twitter .pw-button__outer{background-color:#55aeeb;}
+.pw-widget{margin-bottom:5px;}
+.pw-button .pw-button__outer{color:#fff;font-family:Arial,Helvetica,sans-serif;text-align:center;}
+.pw-button.__pw-size-32 .pw-button__outer{line-height:32px;min-height:32px;}
+.pw-button.__pw-size-32 .pw-button-icon{width:32px;min-height:32px;line-height:32px;}
+.pw-button.__pw-size-32 .pw-button-text{font-size:14px;}
+}
+/*! CSS Used from: Embedded */
+.pw-button{margin:0 2px;}
+/*! CSS Used fontfaces */
+@font-face{font-family:'fgDemi';src:url('//www3-cdn.sherdog.com/1542/fonts/fradmcn.eot');src:url('//www3-cdn.sherdog.com/1542/fonts/fradmcn.eot?#iefix') format('embedded-opentype'), url('//www3-cdn.sherdog.com/1542/fonts/fradmcn.ttf') format('truetype');font-weight:normal;font-style:normal;}
+@font-face{font-family:'fgHeavyItalic';src:url('//www2-cdn.sherdog.com/1542/fonts/frahvit.eot');src:url('//www2-cdn.sherdog.com/1542/fonts/frahvit.eot?#iefix') format('embedded-opentype'), url('//www2-cdn.sherdog.com/1542/fonts/frahvit.ttf') format('truetype');font-weight:normal;font-style:normal;}
+@font-face{font-family:"post-icons-32";src:url(http://i.po.st/static/v4/fonts/post-icons-32.woff) format("woff"),url(http://i.po.st/static/v4/fonts/post-icons-32.svg#post-icons-32) format("svg");font-weight:normal;font-style:normal;}
