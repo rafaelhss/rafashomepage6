@@ -24,9 +24,13 @@
     }
     .top-buffer { margin-top:20px; }
   </style>
+    <script>
+        alert("c eh hack memo hein");
+    </script>
     
 </head>
 <body>
+    
  
 <div class="container-fluid">
     <h1 id="logo">Rafa's home page</h1>
