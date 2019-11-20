@@ -36,7 +36,7 @@
   
  <div class="row top-buffer">
     <div class="col-sm-9">
-        <div class="row">
+        <div class="row top-buffer">
          <div class="col-sm-4">
             <div class="card" style="width:400px">
             <div id="demo2" class="carousel slide" data-ride="carousel">
@@ -71,7 +71,7 @@
           </div>
         </div>
         <div class="col-sm-4">
-                <div class="row">
+                <div class="row top-buffer">
                     <div>
                         <div class="card" style="width:400px">
                             <div class="card-body">
@@ -82,7 +82,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row top-buffer">
                     <div class="card top-buffer" style="width:400px">
                             <div id="demo" class="carousel slide" data-ride="carousel">
 
@@ -105,45 +105,92 @@
                 </div>
         </div>
         <div class="col-sm-4">
-                <div class="card" style="width:400px">
-                <div id="demo" class="carousel slide" data-ride="carousel">
+                <div class="row top-buffer">
+					<div class="card" style="width:400px">
+						<div id="demo" class="carousel slide" data-ride="carousel">
+							<!-- Indicators -->
+						  <ul class="carousel-indicators">
+							<li data-target="#demo" data-slide-to="0" class="active"></li>
+							<li data-target="#demo" data-slide-to="1"></li>
+							<li data-target="#demo" data-slide-to="2"></li>
+							<li data-target="#demo" data-slide-to="3"></li>
+							<li data-target="#demo" data-slide-to="4"></li>
+						  </ul>
 
-                  <!-- Indicators -->
-                  <ul class="carousel-indicators">
-                    <li data-target="#demo" data-slide-to="0" class="active"></li>
-                    <li data-target="#demo" data-slide-to="1"></li>
-                    <li data-target="#demo" data-slide-to="2"></li>
-                    <li data-target="#demo" data-slide-to="3"></li>
-                    <li data-target="#demo" data-slide-to="4"></li>
-                  </ul>
-
-                  <!-- The slideshow -->
-                  <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <img src="dossoccer1.jpg">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="dossoccer2.jpg">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="dossoccer3.jpg">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="dossoccer4.jpg">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="dossoccer5.jpg">
-                    </div>
-                  </div>
+						  <!-- The slideshow -->
+						  <div class="carousel-inner">
+							<div class="carousel-item active">
+							  <img src="dossoccer1.jpg">
+							</div>
+							<div class="carousel-item">
+							  <img src="dossoccer2.jpg">
+							</div>
+							<div class="carousel-item">
+							  <img src="dossoccer3.jpg">
+							</div>
+							<div class="carousel-item">
+							  <img src="dossoccer4.jpg">
+							</div>
+							<div class="carousel-item">
+							  <img src="dossoccer5.jpg">
+							</div>
+						  </div>
 
 
-                </div>
-                <div class="card-body">
-                  <h4 class="card-title">Super DosSoccer</h4>
-                  <p class="card-text">O primeiro RPG de futebol da internet. Um clássico!</p>
-                  <a href="https://github.com/rafaelhss/dossoccer" class="btn btn-primary stretched-link">Ver no github</a>
-                </div>
-              </div>
+						</div>
+						<div class="card-body">
+						  <h4 class="card-title">Super DosSoccer</h4>
+						  <p class="card-text">O primeiro RPG de futebol da internet. Um clássico!</p>
+						  <a href="https://github.com/rafaelhss/dossoccer" class="btn btn-primary stretched-link">Ver no github</a>
+						</div>
+					</div>
+				</div>
+				<div class="row top-buffer">
+					<div class="card" style="width:400px">
+						<div id="demo" class="carousel slide" data-ride="carousel">
+						
+						  <!-- The slideshow -->
+						  <div class="carousel-inner">
+							<div class="carousel-item active">
+							  <img src="veg.jpg">
+							</div>
+						  </div>
+
+
+						</div>
+						<div class="card-body">
+						  <p class="card-text"><div id="time-elapsed"></div></p>
+						  <script>
+							var startDateTime = new Date(2019,0,14,0,1,0,0); // YYYY (M-1) D H m s (start time and date from DB)
+							var startStamp = startDateTime.getTime();
+
+							var newDate = new Date();
+							var newStamp = newDate.getTime();
+
+							var timer;
+
+							function updateClock() {
+								newDate = new Date();
+								newStamp = newDate.getTime();
+								var diff = Math.round((newStamp-startStamp)/1000);
+								
+								var d = Math.floor(diff/(24*60*60));
+								diff = diff-(d*24*60*60);
+								var h = Math.floor(diff/(60*60));
+								diff = diff-(h*60*60);
+								var m = Math.floor(diff/(60));
+								diff = diff-(m*60);
+								var s = diff;
+								
+								document.getElementById("time-elapsed").innerHTML = d+" day(s), "+h+" hour(s), "+m+" minute(s), "+s+" second(s)";
+							}
+
+							setInterval(updateClock, 1000);
+						  </script>
+						  
+						</div>
+					</div>
+				</div>
             </div>
         </div>
     </div>
