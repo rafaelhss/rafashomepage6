@@ -245,20 +245,20 @@
                                         <div class="bio_graph">
                                         <span class="card_bio">
                                                 <span class="result">Wins</span>
-                                                <span class="counter">17</span>
+                                                <span class="counter">19</span>
                                             </span>
                                             <span class="graphics">
                                                 <span class="graph" style="width: 0%"></span>
                                             </span>
                                             <span class="graph_tag">0 KO/TKO (<em>0%</em>)</span>
                                             <span class="graphics">
-                                                <span class="graph" style="width: 11%"></span>
+                                                <span class="graph" style="width: 16%"></span>
                                             </span>
-                                            <span class="graph_tag">2 SUBMISSIONS (<em>11%</em>)</span>
+                                            <span class="graph_tag">3 SUBMISSIONS (<em>16%</em>)</span>
                                             <span class="graphics">
-                                                <span class="graph" style="width: 79%"></span>
+                                                <span class="graph" style="width: 84%"></span>
                                             </span>
-                                            <span class="graph_tag">13 DECISIONS (<em>79%</em>)</span>
+                                            <span class="graph_tag">16 DECISIONS (<em>84%</em>)</span>
                                                                                     </div>
                                         <div class="bio_graph loser">
                                             <span class="card_bio">
@@ -319,7 +319,35 @@
                             <td class="col_four">Phase</td>
                             <td class="col_five">Category</td>
                         </tr>
-                        <tr class="even">
+			<tr class="even">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td>Jiu Jitsu - NOGI</td>
+                            <td><span itemprop="award">Mundial NOGI 2020</span><br><span class="sub_line">Jan / 26 / 2020</span></td>
+                            <td>Final</td>
+                            <td>MASTER 1+2 NOGI/ROXA/PESADO</td>
+                        </tr>				
+			<tr class="odd">
+                            <td><span class="final_result win">win</span></td>
+                            <td>Jiu Jitsu - NOGI</td>
+                            <td><span itemprop="award">Mundial NOGI 2020</span><br><span class="sub_line">Jan / 26 / 2020</span></td>
+                            <td>Semi final</td>
+                            <td>MASTER 1+2 NOGI/ROXA/PESADO</td>
+                        </tr>				
+			<tr class="even">
+                            <td><span class="final_result win">win</span></td>
+                            <td>Jiu Jitsu - NOGI</td>
+                            <td><span itemprop="award">Mundial NOGI 2020</span><br><span class="sub_line">Jan / 26 / 2020</span></td>
+                            <td>Quartas de final</td>
+                            <td>MASTER 1+2 NOGI/ROXA/PESADO</td>
+                        </tr>
+                        <tr class="odd">
+                            <td><span class="final_result loss">loss</span></td>
+                            <td>Jiu Jitsu - NOGI</td>
+                            <td><span itemprop="award">Mundial NOGI 2020</span><br><span class="sub_line">Jan / 25 / 2020</span></td>
+                            <td>Oitavas de final</td>
+                            <td>ABSOLUTO: MASTER 1+2 NOGI/ROXA</td>
+                        </tr>
+			<tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Copa Faca na Caveira 2019</span><br><span class="sub_line">Oct / 20 / 2019</span></td>
