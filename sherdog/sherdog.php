@@ -168,6 +168,7 @@ div.desc {
                             <td class="col_three">Event</td>
                             <td class="col_four">Phase</td>
                             <td class="col_five">Category</td>
+							<td class="col_five">Method</td>
                         </tr>
 			<tr class="even">
                             <td><span class="final_result loss">loss</span></td>
@@ -175,112 +176,128 @@ div.desc {
                             <td><span itemprop="award">Mundial NOGI 2020</span><br><span class="sub_line">Jan / 26 / 2020</span></td>
                             <td>Final</td>
                             <td>MASTER 1+2 NOGI/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>				
+                        	<td>Decision</td>
+						</tr>				
 			<tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Mundial NOGI 2020</span><br><span class="sub_line">Jan / 26 / 2020</span></td>
                             <td>Semi final</td>
                             <td>MASTER 1+2 NOGI/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>				
+                        	<td>Submission (Back choke)</td>
+						</tr>				
 			<tr class="even">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Mundial NOGI 2020</span><br><span class="sub_line">Jan / 26 / 2020</span></td>
                             <td>Quartas de final</td>
                             <td>MASTER 1+2 NOGI/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Mundial NOGI 2020</span><br><span class="sub_line">Jan / 25 / 2020</span></td>
                             <td>Oitavas de final</td>
                             <td>ABSOLUTO: MASTER 1+2 NOGI/<span class="faixa_roxa">ROXA</span></td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
 			<tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Copa Faca na Caveira 2019</span><br><span class="sub_line">Oct / 20 / 2019</span></td>
                             <td>Final</td>
                             <td>MASTER 2 NOGI/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Copa Faca na Caveira 2019</span><br><span class="sub_line">Oct / 20 / 2019</span></td>
                             <td>Semi-final</td>
                             <td>MASTER 2/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Circuito Brasilia de Jiu Jitsu - 2a Edicao</span><br><span class="sub_line">Jul / 21 / 2019</span></td>
                             <td>Final</td>
                             <td>MASTER 1 NOGI/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Circuito Brasilia de Jiu Jitsu - 2a Edicao</span><br><span class="sub_line">Jul / 21 / 2019</span></td>
                             <td>Sem-final</td>
                             <td>MASTER 1 NOGI/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Circuito Brasilia de Jiu Jitsu - 2a Edicao</span><br><span class="sub_line">Jul / 21 / 2019</span></td>
                             <td>Final</td>
                             <td>MASTER 1/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>
+                        	<td>Submission (Arm)</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Circuito Brasilia de Jiu Jitsu - 2a Edicao</span><br><span class="sub_line">Jul / 21 / 2019</span></td>
                             <td>Sem-final</td>
                             <td>MASTER 1/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">GDF Cup de Jiu Jitsu 2019</span><br><span class="sub_line">Jun / 30 / 2019</span></td>
                             <td>Oitavas de final</td>
                             <td>ABSOLUTO: ADULTO/<span class="faixa_roxa">ROXA</span></td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">GDF Cup de Jiu Jitsu 2019</span><br><span class="sub_line">Jun / 30 / 2019</span></td>
                             <td>Semi Final</td>
                             <td>ADULTO/<span class="faixa_roxa">ROXA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>KickBoxing</td>
                             <td><span itemprop="award">Campeonato Distrital de Kickboxing 2019</span><br><span class="sub_line">Mai / 25 / 2019</span></td>
                             <td>Semi Final</td>
                             <td>Ate 86Kg</td>
-                        </tr>
+                        	<td>TKO (Medical stop)</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>KickBoxing</td>
                             <td><span itemprop="award">Campeonato Distrital de Kickboxing 2019</span><br><span class="sub_line">Mai / 25 / 2019</span></td>
                             <td>Quartas de Final</td>
                             <td>Ate 86Kg</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="even">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Campeonato Brasiliense de Jiu Jitsu 2019</span><br><span class="sub_line">Mai / 11 / 2019</span></td>
                             <td>Final</td>
                             <td>ABSOLUTO: MASTER/<span class="faixa_azul">AZUL</span></td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Campeonato Brasiliense de Jiu Jitsu 2019</span><br><span class="sub_line">Mai / 11 / 2019</span></td>
                             <td>Semi-Final</td>
                             <td>ABSOLUTO: MASTER/<span class="faixa_azul">AZUL</span></td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                             
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
@@ -288,147 +305,168 @@ div.desc {
                             <td><span itemprop="award">Campeonato Brasiliense de Jiu Jitsu 2019</span><br><span class="sub_line">Mai / 11 / 2019</span></td>
                             <td>Final</td>
                             <td>MASTER 1/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Campeonato Brasiliense de Jiu Jitsu 2019</span><br><span class="sub_line">Mai / 11 / 2019</span></td>
                             <td>Semi-Final</td>
                             <td>MASTER 1/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr> 
+                        	<td>Decision</td>
+						</tr> 
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Open Brazilian Champion de Jiu Jitsu 2019</span><br><span class="sub_line">Mai / 04 / 2019</span></td>
                             <td>Final</td>
                             <td>ADULTO/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Open Brazilian Champion de Jiu Jitsu 2019</span><br><span class="sub_line">Mai / 04 / 2019</span></td>
                             <td>Semi-Final (Baia)</td>
                             <td>ADULTO/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr> 
+                        	<td>Decision</td>
+						</tr> 
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Open Brazilian Champion de Jiu Jitsu 2019</span><br><span class="sub_line">Mai / 04 / 2019</span></td>
                             <td>Semi-Final</td>
                             <td>ADULTO/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Prime Experience Jiu Jitsu 2019</span><br><span class="sub_line">Apr / 14 / 2019</span></td>
                             <td>Final</td>
                             <td>MASTER 2 NOGI/<span class="faixa_azul">AZUL</span>/ACIMA 94KG</td>
-                        </tr> 
+                        	<td>Submission (Katagatame)</td>
+						</tr> 
                         <tr class="even">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Prime Experience Jiu Jitsu 2019</span><br><span class="sub_line">Apr / 14 / 2019</span></td>
                             <td>Final</td>
                             <td>MASTER 2/<span class="faixa_azul">AZUL</span>/ATE 94KG</td>
-                        </tr>
+                        	<td>Submission (Guilhota)</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Prime Experience Jiu Jitsu 2019</span><br><span class="sub_line">Apr / 14 / 2019</span></td>
                             <td>Semi-Final</td>
                             <td>MASTER 2/<span class="faixa_azul">AZUL</span>/ATE 94KG</td>
-                        </tr> 
+                        	<td>Decision</td>
+						</tr> 
                         <tr class="even">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Campeonato Centro-Oeste Brasileiro Jiu Jitsu 2019</span><br><span class="sub_line">Mar / 16 / 2019</span></td>
                             <td>Final</td>
                             <td>MASTER/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Campeonato Centro-Oeste Brasileiro Jiu Jitsu 2019</span><br><span class="sub_line">Mar / 16 / 2019</span></td>
                             <td>Semi-Final</td>
                             <td>MASTER/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr>  
+                        	<td>Decision</td>
+						</tr>  
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Brasil Golden Cup Jiu Jitsu 2019</span><br><span class="sub_line">Feb / 17 / 2019</span></td>
                             <td>Semi-Final</td>
                             <td>ADULTO/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr>
+                        	<td>Submission (Back choke)</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Brasil Golden Cup Jiu Jitsu 2019</span><br><span class="sub_line">Feb / 17 / 2019</span></td>
                             <td>Quartas de Final</td>
                             <td>ABSOLUTO: ADULTO/<span class="faixa_azul">AZUL</span></td>
-                        </tr>  
+                        	<td>Submission</td>
+						</tr>  
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Brasil Golden Cup Jiu Jitsu 2019</span><br><span class="sub_line">Feb / 17 / 2019</span></td>
                             <td>Semi-Final</td>
                             <td>ADULTO/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr>
+                        	<td>Submission (Armlock)</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Brasil Golden Cup Jiu Jitsu 2019</span><br><span class="sub_line">Feb / 17 / 2019</span></td>
                             <td>Quartas de Final</td>
                             <td>ADULTO/<span class="faixa_azul">AZUL</span>/PESADO</td>
-                        </tr>  
+                        	<td>Decision</td>
+						</tr>  
                         <tr class="even">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Copa Faca na Caveira Jiu Jitsu 2018</span><br><span class="sub_line">Oct / 14 / 2018</span></td>
                             <td>Final</td>
                             <td>MASTER 1 NOGI/<span class="faixa_branca">BRANCA</span>/PESADISSIMO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu - NOGI</td>
                             <td><span itemprop="award">Copa Faca na Caveira Jiu Jitsu 2018</span><br><span class="sub_line">Oct / 14 / 2018</span></td>
                             <td>Semi - Final</td>
                             <td>MASTER 1 NOGI/<span class="faixa_branca">BRANCA</span>/PESADISSIMO</td>
-                        </tr>  
+                        	<td>Decision</td>
+						</tr>  
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Copa Faca na Caveira Jiu Jitsu 2018</span><br><span class="sub_line">Oct / 14 / 2018</span></td>
                             <td>Final</td>
                             <td>MASTER 1/<span class="faixa_branca">BRANCA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result win">win</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Copa Faca na Caveira Jiu Jitsu 2018</span><br><span class="sub_line">Oct / 14 / 2018</span></td>
                             <td>Semi-Final</td>
                             <td>MASTER 1/<span class="faixa_branca">BRANCA</span>/PESADO</td>
-                        </tr>     
+                        	<td>Decision</td>
+						</tr>     
                         <tr class="even">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">1a Copa Jiu Jitsu Recanto das Emas</span><br><span class="sub_line">Sep / 30 / 2018</span></td>
                             <td>Final</td>
                             <td>MASTER 1/<span class="faixa_branca">BRANCA</span>/PESADO</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         <tr class="odd">
                             <td><span class="final_result loss">loss</span></td>
                             <td>Jiu Jitsu</td>
                             <td><span itemprop="award">Brasilia International Pro Jiu Jitsu 2018</span><br><span class="sub_line">Sep / 16 / 2018</span></td>
                             <td>Semi-Final</td>
                             <td>MASTER 1/<span class="faixa_branca">BRANCA</span>/PESADO</td>
-                        </tr>    
+                        	<td>Decision</td>
+						</tr>    
                         <tr class="even">
                             <td><span class="final_result win">win</span></td>
                             <td>Muay Thai</td>
                             <td><span itemprop="award">Desafio Reagae Bar - Phi Phi Islands</span><br><span class="sub_line">Dec / 06 / 2017</span></td>
                             <td>Final</td>
                             <td>Pesado</td>
-                        </tr>
+                        	<td>Decision</td>
+						</tr>
                         
                     </tbody></table>
                 </div>
@@ -510,7 +548,7 @@ div.desc {
 					</div>
 					<div class="gallery">
 					  <a target="_blank" href="vid/video3.mp4">
-						<img src="vid/video3.jpg" width="600" height="400">
+						<img src="vid/video3.jpg" width="150px" height="50px">
 					  </a>
 					</div>
 
