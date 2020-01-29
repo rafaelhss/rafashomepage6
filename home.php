@@ -23,9 +23,9 @@
       text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
     }
     .top-buffer { margin-top:20px; }
-	.faixa_roxa { color: purple;}
-	.faixa_azul { color: blue; }
-	.faixa_branca { color: white; }
+	.faixa_roxa { background-color: purple;}
+	.faixa_azul { background-color: blue; }
+	.faixa_branca { background-color: white; }
   </style>
     
 </head>
