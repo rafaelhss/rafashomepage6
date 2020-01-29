@@ -266,20 +266,20 @@
                                         <div class="bio_graph loser">
                                             <span class="card_bio">
                                             <span class="result">Losses</span>
-                                            <span class="counter">16</span>
+                                            <span class="counter">18</span>
                                             </span>
                                             <span class="graphics">
                                                 <span class="graph" style="width: 6%"></span>
                                             </span>
-                                            <span class="graph_tag">1 KO/TKO (<em>6%</em>)</span>
+                                            <span class="graph_tag">1 KO/TKO (<em>5%</em>)</span>
                                             <span class="graphics">
                                                 <span class="graph" style="width: 25%"></span>
                                             </span>
-                                            <span class="graph_tag">4 SUBMISSIONS (<em>25%</em>)</span>
+                                            <span class="graph_tag">4 SUBMISSIONS (<em>22%</em>)</span>
                                             <span class="graphics">
                                                 <span class="graph" style="width: 61%"></span>
                                             </span>
-                                            <span class="graph_tag">11 DECISIONS (<em>69%</em>)</span>
+                                            <span class="graph_tag">11 DECISIONS (<em>73%</em>)</span>
                                                                                     </div>
                                     </div>
                                                                     </div>
